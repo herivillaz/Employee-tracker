@@ -64,7 +64,7 @@ Remember, you can run the tests at any time with `npm run test`
 * Heribert Villazana
 * Github: herivillaz
 
-![Repo Owner Image](https://avatars.githubusercontent.com/herivillaz?s=100)
+![Repo Owner Image](https://avatars.githubusercontent.com/herivillaz?s=200)
 
 ## Contact
 herivillaz@gmail.com
