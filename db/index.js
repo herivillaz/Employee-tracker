@@ -92,4 +92,4 @@ findAllEmployeesByManager(managerId) {
   }
 }
 
-module.exports = DB(connection);
+module.exports = new DB(connection);
