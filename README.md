@@ -9,7 +9,7 @@ A solution for managing a company's employees using node, inquirer, and MySQL.
 
 # Table Of Contents
 
-* [Columbia Instructions](##Instructions)
+* [Columbia Instructions](#Instructions)
 * [Description](#Description)
 * [Usage](#Usage)
 * [Contribution](#Contribution)
